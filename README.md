@@ -5,6 +5,7 @@ The simple regression model is used here for showing the relative humidity and t
 ) is used for implementation.
 
 The outlier graph obtained is as follows:
+
 ![graph](https://user-images.githubusercontent.com/32769743/41354786-7b93c986-6f3d-11e8-97d4-d38bc67393dc.png)
 
 For detailed explanation of the model, please visit my blog-[]()
