@@ -8,5 +8,5 @@ The outlier graph obtained is as follows:
 
 ![graph](https://user-images.githubusercontent.com/32769743/41354786-7b93c986-6f3d-11e8-97d4-d38bc67393dc.png)
 
-For detailed explanation of the model, please visit my blog-[]()
+For detailed explanation of the model, please visit my blog-[Linear Regression](https://medium.com/@diti.modi/linear-regression-model-899558ba0fc4)
 
