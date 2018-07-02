@@ -5,5 +5,6 @@ This repository is for all the machine learning models implementation that I imp
 <br/>
 <br/>Hope you find what you looking for!
 Models implemented till date-
-1. Linear Regression Model
-2. NLP Basic Text Analysis using NLTK  
+1. [Linear Regression Model](https://github.com/ditsme/Machine-Learning/blob/master/Linear-Regression/Temperature-Humidity%20relation%20in%20Mumbai%20June%202018.ipynb)
+2. [NLP Basic Text Analysis using NLTK](https://github.com/ditsme/Machine-Learning/blob/master/NLP/NLP-NLTK.ipynb)
+3. [ANN model](https://github.com/ditsme/Machine-Learning/blob/master/Neural%20Networks/ANN.py)
