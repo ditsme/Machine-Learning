@@ -5,4 +5,4 @@ I will keep on adding my everyday work in this repository
 
 **Thoughts:** I really struggled with application in Python initially, but, overall, I feel like I am slowly getting better at it.I am well versed with virtual environments, Jupyter Notebook,basic Python libraries such as Numpy,Pandas, Matplotlib etc. I have also understood more about Logistic and Linear Regression in detail and understood the difference between both.
 
-**Link to work:** [Salary Analysis](https://github.com/ditsme/Machine-Learning/tree/master/Logistic%20Regression)
+**Link to work:** [Salary Analysis using Logistic Regression](https://github.com/ditsme/Machine-Learning/tree/master/Logistic%20Regression)
