@@ -20,3 +20,5 @@ These are the instructions for [this]() video on Youtube by Siraj Raval for the 
 I had started learning Machine Learning as a new subject but later on I greatly developed affinity to this subject and have started coding and improving my skills in the same since I started knowing about the huge applications of ML in the progress of technology and specially healthcare areas. Siraj Raval has only motivated me more to pursue ML by means of this challenge.
 
 I will now onwards maintain a log file for logging my daily ML work. Thankyou Siraj Raval!
+
+The work is compiled here- [#100DaysOfMLCode](https://github.com/ditsme/Machine-Learning/tree/master/100-Days-Of-ML-Code)
