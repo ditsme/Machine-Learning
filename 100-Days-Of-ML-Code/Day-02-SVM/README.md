@@ -8,6 +8,8 @@ In real world problems, the sets used to be classified, are mostly non linearly 
 Kernel is simply an arbitrary function that returns a number as output to classify. Kernels capture the similarity and domain knowledge. Kernels such as Polynomial, Gaussian or Sigmoidal etc. can be used.
 Selection of the kernel plays an important role here and varies with the requirements of given data. Usually Mercer condition is used to select a good kernel function.
 
+#### Sigmoidal kernel usually performs with lower accuracy than Gaussian kernel as we see below in the implementation as well.
+
 ## My Implementation
 I have initally implemented the same logisitc regression model that I used in Day 01 to compare the accuracy and performance difference between both.
 This is the linear kernel SVM model used for linearly modelled data implemented [here](https://github.com/ditsme/Machine-Learning/blob/master/100-Days-Of-ML-Code/Day-02-SVM/Salary%20Analysis%20using%20SVM.ipynb).
