@@ -13,3 +13,10 @@ I will keep on adding my everyday work in this repository
 **Thoughts:** I feel more confident about SVMs after studying in detail about the SVM,it's implementation and all the different kernels used. I also realised the difference between Logistic Regression and SVMs.
 
 **Link to work:** [SVM models](https://github.com/ditsme/Machine-Learning/tree/master/100-Days-Of-ML-Code/Day-02-SVM)
+
+## Day 03- July 10, 2018
+**Today's Progress**: Pumpkin prices predicted using Polynomial Regression.
+
+**Thoughts:** I am understanding more and more about Regression models and their types.
+
+**Link to work:** [Polynomial Regression](https://github.com/ditsme/Machine-Learning/tree/master/100-Days-Of-ML-Code/Day-03-Polynomial_Regression)
