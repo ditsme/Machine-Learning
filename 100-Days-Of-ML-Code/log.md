@@ -21,3 +21,9 @@ I will keep on adding my everyday work in this repository
 
 **Link to work:** [Polynomial Regression](https://github.com/ditsme/Machine-Learning/tree/master/100-Days-Of-ML-Code/Day-03-Polynomial_Regression)
 
+## Day 04- July 13, 2018
+**Today's Progress**: Diving into Unsupervised Learning.
+
+**Thoughts:** Learnt about k-means clustering implementing in fraud detection and also realized that  unsupervised learning gives a low accuracy then supervised learning .
+
+**Link to work:** [K-means Clustering](https://github.com/ditsme/Machine-Learning/tree/master/100-Days-Of-ML-Code/Day-04-k-means-clustering)
