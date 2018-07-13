@@ -21,9 +21,3 @@ I will keep on adding my everyday work in this repository
 
 **Link to work:** [Polynomial Regression](https://github.com/ditsme/Machine-Learning/tree/master/100-Days-Of-ML-Code/Day-03-Polynomial_Regression)
 
-## Day 03- July 11, 2018
-**Today's Progress**: Decision Tree classifier halfway there.
-
-**Thoughts:** I want to know more about Decision Tree. I couldn't entirely complete the model today but I would surely work on it tomorrow again!
-
-**Link to work:** [Decision Tree](https://github.com/ditsme/Machine-Learning/tree/master/100-Days-Of-ML-Code/Day-04-DecisionTree)
