@@ -27,3 +27,8 @@ I will keep on adding my everyday work in this repository
 **Thoughts:** Learnt about k-means clustering implementing in fraud detection and also realized that  unsupervised learning gives a low accuracy then supervised learning .
 
 **Link to work:** [K-means Clustering](https://github.com/ditsme/Machine-Learning/tree/master/100-Days-Of-ML-Code/Day-04-k-means-clustering)
+
+## Day 05- July 18, 2018
+**Today's Progress** Deeply learning about neural networks and writing out a blog.
+**Thoughts:** Found the concepts complicated at the beginning but after writing this blog, even my knowledge has increased about the topic
+**Link to Work**- [Neural Networks Implementation](https://medium.com/@diti.modi/neuralnetworks-implementation-d55cc6fc2f62)
