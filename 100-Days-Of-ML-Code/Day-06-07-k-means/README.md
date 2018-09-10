@@ -14,8 +14,8 @@ STEP 4: Taking mean and repeat till zero error
 ## DATASET
 Dataset used for athlete data implementation is available [here](https://www.kaggle.com/ahmetuzgor/my-first-data-analysis-with-athletes-data/data).
 
-Dataset for Sales data implementation is available[here](https://www.kaggle.com/kyanyoga/sample-sales-data).
+Dataset for Sales data implementation is available [here](https://www.kaggle.com/kyanyoga/sample-sales-data).
 
- I also have written a blog about detailed implementation[here](https://medium.com/@diti.modi/k-means-clustering-implementation-2018-ac5cd1e51d0a) 
+ I also have written a blog about detailed implementation [here](https://medium.com/@diti.modi/k-means-clustering-implementation-2018-ac5cd1e51d0a) 
 
 
