@@ -30,13 +30,14 @@ I will keep on adding my everyday work in this repository
 
 ## Day 05- July 18, 2018
 **Today's Progress** Deeply learning about neural networks and writing out a blog.
-**Thoughts:** Found the concepts complicated at the beginning but after writing this blog, even my knowledge has increased about the topic
+
+**Thoughts:** Found the concepts complicated at the beginning but after writing this blog, even my knowledge has increased about the topic.
+
 **Link to Work**- [Neural Networks Implementation](https://medium.com/@diti.modi/neuralnetworks-implementation-d55cc6fc2f62)
 
 ## Day 06,07- September 08 and 09, 2018
 **Today's Progress** Thoroughly learning kmeans from scratch implementation and writing out a blog.
+
 **Thoughts:** Blogging has always helped me share and know concepts clearly yet again. Though I have been off lately with #100DaysOfMLCode, it feels satisfying to know and code kmeans from scratch!
-**Link to Work**- [k-means from Scratch Implementation](## Day 05- July 18, 2018
-**Today's Progress** Deeply learning about neural networks and writing out a blog.
-**Thoughts:** Found the concepts complicated at the beginning but after writing this blog, even my knowledge has increased about the topic
-**Link to Work**- [Neural Networks Implementation](https://medium.com/@diti.modi/k-means-clustering-implementation-2018-ac5cd1e51d0a)
+
+**Link to Work**- [k-means from Scratch Implementation](https://medium.com/@diti.modi/k-means-clustering-implementation-2018-ac5cd1e51d0a)
